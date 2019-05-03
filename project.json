@@ -1,0 +1,10 @@
+{
+    "project": {
+        "full_name": "Synthé modulaire",
+        "slug": "test",
+        "short_description": "comment fabriquer son modulaire",
+        "lang": "fr",
+        "license": "CC BY-SA",
+        "about": "Blablabla"
+    }
+}

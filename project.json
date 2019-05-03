@@ -5,6 +5,16 @@
         "short_description": "comment fabriquer son modulaire",
         "lang": "fr",
         "license": "CC BY-SA",
-        "about": "Blablabla"
+        "about": "Blablabla",
+        "contributors": [
+            {
+                "full_name": "Yo",
+                "role": "Porteur de projet"
+            },
+            {
+                "full_name": "Ju",
+                "role": "Contributeur"
+            }
+        ]
     }
 }

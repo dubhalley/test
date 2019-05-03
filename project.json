@@ -29,6 +29,21 @@
                     "caption": "whaou"
                 }
             }
+        ],
+        "steps": [
+            {
+                "title": "",
+                "duration": 300,
+                "content": "",
+                "inputs": [
+                    {
+                        "file": {
+                            "name": "Modele 3d entretoise",
+                            "url": "/modeles/Entretoise rack.fcstd "
+                        }
+                    }
+                ]
+            }
         ]
     }
 }

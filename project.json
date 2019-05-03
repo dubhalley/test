@@ -15,6 +15,14 @@
                 "full_name": "Ju",
                 "role": "Contributeur"
             }
+        ],
+        "featured_images": [
+            {
+                "image": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Moog_Modular_55_img2.jpg",
+                    "caption": "Moog sur wikipedia"
+                }
+            }
         ]
     }
 }
